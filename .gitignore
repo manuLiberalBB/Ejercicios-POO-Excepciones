@@ -1,0 +1,8 @@
+# Ignorar archivos compilados de Java
+*.class
+out/
+bin/
+
+# Ignorar archivos de configuración de IntelliJ
+.idea/
+*.iml
